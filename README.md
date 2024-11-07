@@ -1,9 +1,20 @@
-<img align="right" alt="coding" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUxd3ozenFuZTdlendzbnU3enhjMHhlbHp6N3Jzankya2g1ZzF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp">
+<p><img align="right" alt="banner-img" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUxd3ozenFuZTdlendzbnU3enhjMHhlbHp6N3Jzankya2g1ZzF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp"></p>
 
-<h1 align="center">Hi, I'm Jordian👋</h1>
-<h3 align="center">A passionate Developer.</h3>
+<h1 align="center">Hi, I'm Jorian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
+<p align="center">I’m here to explore my potential and push my boundaries in the world of tech. Driven to build a meaningful career, I aim to work alongside passionate individuals, leveraging pmy skills in a creative and challenging environment.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jordian0&label=Profile%20views&color=0e75b6&style=flat" alt="jordian0" /> </p>
+
+
+
+## Connect with me 
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/878859081522221077)](https://discord.com/users/878859081522221077)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/u/Jordian0)](https://leetcode.com/u/Jordian0)
+[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white&link=https://www.codechef.com/users/jordian0)](https://www.codechef.com/users/jordian0)
+[![CodingNinjas](https://img.shields.io/badge/Coding_Ninjas-DD6620?&style=for-the-badge&logo=Codingninjas&logoColor=white&link=https://www.naukri.com/code360/profile/Jordian)](https://www.naukri.com/code360/profile/Jordian)
+
+
 
 <br/>
 
