@@ -1,7 +1,7 @@
 <p><img align="right" alt="banner-img" width="100%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUxd3ozenFuZTdlendzbnU3enhjMHhlbHp6N3Jzankya2g1ZzF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp"></p>
 
 <h1 align="center">Hi, I'm Jorian <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"></h1>
-<p align="center">I’m here to explore my potential and push my boundaries in the world of tech. Driven to build a meaningful career, I aim to work alongside passionate individuals, leveraging pmy skills in a creative and challenging environment.</p>
+<p align="center">I’m here to explore my potential and push my boundaries in the world of tech. Driven to build a meaningful career, I aim to work alongside passionate individuals, leveraging my skills in a creative and challenging environment.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jordian0&label=Profile%20views&color=0e75b6&style=flat" alt="jordian0" /> </p>
 
